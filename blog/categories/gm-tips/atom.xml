@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[Unseelie]]></title>
-	<link href="http://unseelie.github.io/atom.xml" rel="self"/>
-	<link href="http://unseelie.github.io/"/>
-	<updated>2013-11-02T14:47:36-07:00</updated>
-	<id>http://unseelie.github.io/</id>
-	<author>
-		<name><![CDATA[Oliver]]></name>
-		
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[Category: gm-tips | Unseelie]]></title>
+  <link href="http://unseelie.github.io/blog/categories/gm-tips/atom.xml" rel="self"/>
+  <link href="http://unseelie.github.io/"/>
+  <updated>2013-11-02T14:47:36-07:00</updated>
+  <id>http://unseelie.github.io/</id>
+  <author>
+    <name><![CDATA[Oliver]]></name>
+    
+  </author>
+  <generator uri="http://ryandeussing.com/">Ryan Deussing</generator>
 
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Gaming in parallel]]></title>
-		
-		<link href="http://unseelie.github.io/blog/2012/08/29/gaming-in-parallel/"/>
-		<updated>2012-08-29T14:42:00-07:00</updated>
-		<id>http://unseelie.github.io/blog/2012/08/29/gaming-in-parallel</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Gaming as a young adult is different from gaming in high school. You have less free time, pulling all-nighters is a bigger deal, and unless you’re lucky or outgoing, most of your old cronies are more than a bike ride away. Overcoming these obstacles and maintaining a healthy relationship with the hobby demands care; <strong>because you can’t game harder, you have to game smarter</strong>. That means making the most of the time you do have.</p>
+  
+  <entry>
+    <title type="html"><![CDATA[Gaming in parallel]]></title>
+    <link href="http://unseelie.github.io/blog/2012/08/29/gaming-in-parallel/"/>
+    <updated>2012-08-29T14:42:00-07:00</updated>
+    <id>http://unseelie.github.io/blog/2012/08/29/gaming-in-parallel</id>
+    <content type="html"><![CDATA[<p>Gaming as a young adult is different from gaming in high school. You have less free time, pulling all-nighters is a bigger deal, and unless you’re lucky or outgoing, most of your old cronies are more than a bike ride away. Overcoming these obstacles and maintaining a healthy relationship with the hobby demands care; <strong>because you can’t game harder, you have to game smarter</strong>. That means making the most of the time you do have.</p>
 
 <p>For a lot of us, “doing something smarter” means “doing it online.” There are exceptions to this—if everybody’s in town for the holidays, then by all means, break out the Cheetos and go for it hard. When you’re spread across the country with incompatible schedules, though, the way to maintain the hobby (and your connections with old friends) into adulthood is to take your analog gaming digital.</p>
 
@@ -67,8 +59,7 @@ Beyond these basic rules, the other guideline is to make use of the parallel gam
 <p>&ldquo;Take this,&rdquo; Emma says with concern. &ldquo;What&rsquo;s going on with you? The headaches, the fever&hellip; the other night, you didn&rsquo;t even come home. I know you can&rsquo;t sleep, but do you really think wandering around at all hours is the way to deal with it?&rdquo; You notice she&rsquo;s playing with her ring again. Great, that means marital trouble, right? But it&rsquo;s getting harder and harder to concentrate on her. Everything here seems increasingly lifeless, dull—immaterial—after being in the Mad City.</p>
 
 <p>Emma purses her lips and turns away, looking at the other couples in the restaurant. She looks like she&rsquo;s deep in thought. Just as she&rsquo;s about to say something more, the waiter arrives with your meals. She takes a hearty bite of her sandwich. The girl sure could eat, regardless the circumstances. As you start to take a bite of blackened tuna, your eye catches that of a frumpy police officer looking in through the window. He looks away immediately and walks off, but not before you notice with a start that there&rsquo;s a large wind-up key embedded in his wide back.</p></blockquote>
-]]>
-		</content>
-	</entry>
-	
+]]></content>
+  </entry>
+  
 </feed>
