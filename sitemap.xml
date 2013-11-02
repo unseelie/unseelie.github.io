@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://unseelie.github.io/blog/2011/06/01/this-is-a-test/</loc>
+        <lastmod>2013-11-02T00:23:13-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://unseelie.github.io/blog/archives/</loc>
-        <lastmod>2013-11-01T17:29:21-07:00</lastmod>
+        <lastmod>2013-11-02T00:23:13-07:00</lastmod>
     </url>
     <url>
         <loc>http://unseelie.github.io/</loc>
-        <lastmod>2013-11-01T17:29:21-07:00</lastmod>
+        <lastmod>2013-11-02T00:23:13-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://unseelie.github.io/projects/</loc>
+        <lastmod>2013-11-02T00:23:13-07:00</lastmod>
     </url>
     <url>
         <loc>http://unseelie.github.io/robots.txt</loc>
